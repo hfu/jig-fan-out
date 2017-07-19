@@ -30,7 +30,7 @@ end
 
 if $0 == __FILE__
   fan_out(
-    '/Users/hfu/Downloads/new-york_new-york.mbtiles',
-    '/Users/hfu/github/openmaptiles-ny'
+    'data.mbtiles',
+    '.'
   )
 end
